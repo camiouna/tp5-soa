@@ -1,0 +1,33 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "billingServiceApplication",
+      "request": "launch",
+      "mainClass": "com.iset.demo.billingServiceApplication",
+      "projectName": "billing-service"
+    },
+    {
+      "type": "java",
+      "name": "CustomerServiceApplication",
+      "request": "launch",
+      "mainClass": "com.iset.demo.CustomerServiceApplication",
+      "projectName": "com.iset-demo"
+    },
+    {
+      "type": "java",
+      "name": "DemoApplication",
+      "request": "launch",
+      "mainClass": "com.iset.demo.DemoApplication",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "Launch Billing Service",
+      "request": "launch",
+      "mainClass": "com.iset.demo.DemoApplication",
+      "projectName": "billing-service"
+    }
+  ]
+}
